@@ -1,3 +1,4 @@
+
 fecha=new Date();
 hora=fecha.getHours();
 minutos=fecha.getMinutes();
@@ -17,3 +18,4 @@ if(horaFinal>=24){
 console.log("Hora Actual:", hora+":"+minutos);
 console.log("Valor Aleatorio Generado en Minutos:", minutosAleatorios);
 console.log("Hora Final:", horaFinal+":"+minutosFinal);
+

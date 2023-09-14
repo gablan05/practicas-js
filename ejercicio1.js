@@ -1,3 +1,4 @@
+
 console.log("hola");
 
 for (let i=0; i<10; i++) {
@@ -9,4 +10,5 @@ for (let i=0; i<10; i++) {
   console.log("Valor Aleatorio Generado:", aleatorio);
   console.log("Nro que cayó en la ruleta:", resultado);
   console.log();
+
 }
